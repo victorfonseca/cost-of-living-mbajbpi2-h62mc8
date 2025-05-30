@@ -20,7 +20,7 @@
               "env_vars": [
                 {
                   "env_var": "DAG_KEY",
-                  "value": "default"
+                  "value": "mbajbpi2-h62mc8"
                 },
                 {
                   "env_var": "MINIO_ENDPOINT"
@@ -91,7 +91,7 @@
               "env_vars": [
                 {
                   "env_var": "DAG_KEY",
-                  "value": "default"
+                  "value": "mbajbpi2-h62mc8"
                 },
                 {
                   "env_var": "MINIO_ENDPOINT"
